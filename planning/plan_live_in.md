@@ -11,7 +11,7 @@ This plan utilizes a medically trained, live-in caregiver to provide 24/7 peace 
 *   **Personal Care:** Caregiver assists with showering, dressing, and mobility, especially during the crucial first 2 weeks.
 *   **Medical Oversight:** Caregiver monitors vitals (fever, heart rate) and is prepared to escalate to 995 or book a cab to NUH in an emergency.
 *   **Household Chores:** Caregiver handles laundry, light cleaning, and ensuring trip hazards are removed.
-*   **Meals:** Caregiver cooks healthy, low-sodium meals daily. (Optional: Use Tingkat delivery for the first 14 days to reduce caregiver workload).
+*   **Meals:** Caregiver cooks healthy, low-sodium meals daily. (Optional: Use a heart-healthy meal delivery service like Nutrition Kitchen SG or YoloFoods for the first 14 days to reduce caregiver workload while ensuring strict nutrition).
 
 ## The Cat Care Strategy
 *   **Scenario 1 (Ideal):** The agency permits the caregiver to administer the insulin after being trained by you or your friend. The caregiver handles all cat feeding and litter duties.
@@ -21,7 +21,7 @@ This plan utilizes a medically trained, live-in caregiver to provide 24/7 peace 
 
 ## Budget Estimate (2 Months)
 *   Live-In Caregiver Salary + Agency Fees: ~$2,500 - $4,000
-*   Tingkat (First 2 weeks): ~$300
+*   Healthy Meal Delivery (First 2 weeks): ~$350
 *   Pet Sitter Fallback (If needed, 2x/day for 60 days): ~$3,600
 *   **Total Estimated Cost:** $2,800 - $7,900 SGD (Well within the $10K-$20K budget)
 

@@ -4,7 +4,7 @@ This plan pieces together specialized services to cover your needs without havin
 
 ## Core Setup
 *   **Personal Care:** Homage or Jaga-Me (Professional Caregivers / Nurses).
-*   **Meals:** Tingkat Delivery (Kim Paradise, Select Catering) or YoloFoods.
+*   **Meals:** Specialized Healthy Meal Delivery (Nutrition Kitchen SG, YoloFoods, or AMGD).
 *   **Cleaning:** Part-time cleaner (Helpling, Urban Company).
 *   **Pet Care:** Dedicated Pet Sitter (Pawshake, PetBacker).
 
@@ -13,14 +13,14 @@ This plan pieces together specialized services to cover your needs without havin
     *   *Weeks 1-2:* Book an 8-hour daytime shift and an 8-hour overnight shift. They assist with showering, mobility, and medication reminders.
     *   *Weeks 3-4:* Drop the overnight shift. Book a 4-6 hour daytime shift.
     *   *Weeks 5-8:* Book 3-hour visits, 3 times a week.
-*   **Meals (Tingkat):** Healthy meals are delivered to your door daily. The Homage caregiver warms them up and sets them up for you.
+*   **Meals (Healthy Delivery):** Chef-prepared, heart-healthy meals (low sodium/fat) are delivered to your door. The Homage caregiver warms them up and sets them up for you.
 *   **Household Chores (Cleaner):** A cleaner comes twice a week for 3 hours to mop, clean the bathroom, and do laundry.
 *   **Cat Care (Pet Sitter):** A sitter visits twice a day to feed the cats, clean the heavy litter boxes, and administer the insulin shots.
 
 ## Budget Estimate (First Month Only)
 *   Homage Daytime Care (8 hrs/day x 14 days + 4 hrs/day x 14 days): ~$4,200
 *   Homage Overnight Care (8 hrs/night x 14 days): ~$2,800
-*   Tingkat Meal Delivery (30 days): ~$600
+*   Healthy Meal Delivery (30 days): ~$700
 *   Part-Time Cleaner (2x/week x 4 weeks): ~$250
 *   Pet Sitter (2x/day x 30 days): ~$1,800
 *   **Total Estimated Cost (First Month):** ~$9,650 SGD
