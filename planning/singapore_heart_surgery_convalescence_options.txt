@@ -1,0 +1,862 @@
+CONVALESCENCE OPTIONS FOR ELECTIVE HEART SURGERY RECOVERY IN SINGAPORE
+Prepared from ChatGPT discussion + current provider/source checks
+Date prepared: 2026-05-10
+Scenario context:
+- Residing in Singapore.
+- Lives alone.
+- Has 2 cats.
+- Planning elective heart surgery in a few months.
+- Needs help with cooking, cleaning, general assistance, and possibly overnight support during recovery.
+- May need private/unsubsidized pricing assumptions depending on eligibility.
+- Likely planning needs are for post-discharge convalescence, not hospital-level care.
+- Important unknown: exact surgery type. If surgery is minimally invasive without sternotomy, recovery timeline may be shorter. If open-chest/median sternotomy, sternum restrictions are significant.
+
+IMPORTANT DISCLAIMER FOR LLM AGENT
+This file is for planning and shortlisting only. It is not medical advice.
+All recovery timelines must be checked against the treating cardiac surgeon, hospital discharge team, and/or cardiac rehabilitation team.
+For emergencies in Singapore, call 995 or go to the nearest Accident & Emergency department.
+
+================================================================================
+1. SUMMARY OF BEST-FIT RECOVERY MODEL
+================================================================================
+
+Recommended model for this user:
+- Use a private caregiver/home personal care provider as the core support.
+- Add overnight caregiver coverage for the first 2-4 weeks if budget allows.
+- Add private nurse visits selectively for wound care, vitals checks, medication review, and early complication screening.
+- Use separate part-time cleaning/cooking help if caregiver time is too expensive for household tasks.
+- Arrange separate cat-care backup, especially for litter, feeding, and any medical routines.
+- Use meal delivery/tingkat to reduce dependence on cooking help.
+- Avoid hiring an FDW/MDW unless there is a long-term need beyond post-surgery recovery.
+
+Key reason:
+- User lives alone and has pets, but the need is expected to be short-term.
+- A full FDW/MDW arrangement has high setup overhead and is not ideal for only 1-3 months.
+- A mix of caregiver + meal delivery + pet sitter + optional nurse gives flexibility and lower commitment.
+
+================================================================================
+2. RECOVERY TIMELINE ASSUMPTIONS FOR OPEN HEART SURGERY / STERNOTOMY
+================================================================================
+
+Use this only if the operation involves sternotomy/open chest. Verify with surgeon.
+
+Typical sternum and functional recovery:
+- Weeks 0-2:
+  - Highest dependency.
+  - Fatigue, pain, poor sleep, reduced mobility.
+  - Avoid bending, lifting, pushing, pulling, using arms to get out of bed, and lifting pet litter or heavy groceries.
+  - Strong case for daily daytime help plus overnight care.
+- Weeks 3-4:
+  - May be able to do light work from home if mentally clear and surgeon approves.
+  - Still avoid commuting and carrying bags.
+  - Daily caregiver help remains useful.
+  - Overnight care may still be justified if living alone.
+- Weeks 5-6:
+  - Borderline transition phase.
+  - Some light office-type work may be possible from home.
+  - Public transport and carrying laptop are still not ideal because of crowds, sudden jerks, standing, and load.
+- Weeks 6-8:
+  - Key transition milestone for many sternotomy patients.
+  - Hybrid/limited office return may be possible if surgeon approves.
+  - Use off-peak travel and avoid carrying laptop on shoulder.
+- Weeks 8-10:
+  - More realistic for normal commuting and office work, with modifications.
+  - Fatigue may still occur.
+- Weeks 8-12:
+  - Sternum/breastbone continues strengthening.
+  - Most daily activities resume gradually.
+- 3-6 months:
+  - More complete recovery/strengthening; heavy lifting and intense activity only if cleared.
+
+Practical work timeline discussed:
+- Fully off or remote only: weeks 0-4.
+- Remote/hybrid light work: weeks 4-6.
+- Hybrid office return: weeks 6-8, if cleared.
+- Full commute + normal routine: around weeks 8-10.
+- Laptop strategy:
+  - Prefer leaving laptop at office/home, using VDI/remote access, or using a wheeled bag.
+  - Avoid single-shoulder laptop bags early.
+  - Avoid peak-hour public transport until strength and balance improve.
+
+Planning implication:
+- Household support should be strongest in first 4 weeks.
+- Cat litter, groceries, laundry, changing bedsheets, mopping, and cooking should be delegated for at least 4-6 weeks.
+- Keep support available through at least week 8 if open sternotomy.
+
+Source URLs for timeline:
+- NHS Manchester University Foundation Trust cardiac surgery recovery PDF:
+  https://mft.nhs.uk/app/uploads/2019/08/section-3.pdf
+- Cleveland Clinic heart surgery recovery:
+  https://health.clevelandclinic.org/what-you-can-expect-as-you-recover-from-heart-surgery
+- Cleveland Clinic sternotomy recovery:
+  https://my.clevelandclinic.org/health/treatments/24016-sternotomy
+- SingHealth / HealthXchange heart surgery recovery:
+  https://www.healthxchange.sg/how-to-manage/cardiovascular-disease/heart-surgery-how-to-recover-fast
+- University Hospital Southampton cardiac surgery patient information:
+  https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Heartandlungs/Cardiacsurgery-1362-PIL.pdf
+
+================================================================================
+3. CORE OPTION: PRIVATE CAREGIVER / HOME PERSONAL CARE
+================================================================================
+
+Best for:
+- Assistance with activities of daily living.
+- Showering support, mobility support, meal setup/prep, hydration reminders.
+- Medication reminders, but not medication prescribing or clinical judgement.
+- Light cleaning, laundry, basic household support depending on provider scope.
+- General standby assistance.
+- Can be cheaper than nursing for non-clinical needs.
+
+Not ideal for:
+- Wound dressing unless trained/authorized.
+- Complex symptom interpretation.
+- Clinical assessment of chest pain, arrhythmia, fluid retention, wound infection.
+- Cat medical care unless separately agreed.
+- Deep cleaning or heavy household tasks, unless provider explicitly allows it.
+
+Suggested schedule from chat:
+A) First 2 weeks:
+   - 2 visits/day.
+   - Morning 3 hours + evening 2-3 hours.
+   - Total assistance: 5-6 hours/day.
+   - Alone time: about 18-19 hours/day if no overnight coverage.
+B) Weeks 3-6:
+   - 1 visit/day, 3-4 hours/day.
+   - Total assistance: 3-4 hours/day.
+C) Weeks 7-10:
+   - 3-4 visits/week, 3 hours each.
+   - Total assistance: 10-12 hours/week.
+
+Approximate cost using S$25-S$35/hour:
+A) First 2 weeks:
+   - 5-6 hours/day x 14 days x S$25-S$35/hour
+   - Estimate: S$1,750-S$2,940
+B) Weeks 3-6:
+   - 3-4 hours/day x 28 days x S$25-S$35/hour
+   - Estimate: S$2,100-S$3,920
+C) Weeks 7-10:
+   - 10-12 hours/week x 4 weeks x S$25-S$35/hour
+   - Estimate: S$1,000-S$1,680
+Total for 10 weeks caregiver-only staged plan:
+   - Approx. S$4,850-S$8,540
+   - Prior midpoint estimate from chat: about S$5,500 using S$25/hour.
+
+Tasks to assign during morning block:
+- Breakfast setup.
+- Ensure water and essentials are within reach.
+- Medication reminders.
+- Light monitoring/reporting of symptoms to user.
+- Help with showering/dressing if needed.
+- Light laundry.
+- Cat feeding.
+- Cat litter cleaning.
+- Kitchen cleanup.
+
+Tasks to assign during evening block:
+- Dinner setup.
+- Prepare next day’s water, snacks, medication reminders.
+- Tidy kitchen.
+- Cat feeding and litter check.
+- Make sleeping area safe and reachable.
+- Confirm emergency phone/charger are accessible.
+
+Shortlisting questions for caregiver providers:
+- Can they support post-cardiac-surgery patients?
+- Can they assist with showering and safe transfers?
+- Are they comfortable with a home containing cats?
+- Will they clean litter boxes?
+- Will they do light cooking or only meal setup?
+- Can they come daily for the first 2-4 weeks?
+- Can they provide the same caregiver consistently?
+- Can they provide overnight caregivers?
+- What is the minimum booking duration?
+- What is the cancellation/rescheduling policy?
+- What tasks are excluded?
+- Are caregivers trained in basic first aid and escalation?
+- Can they help call 995 or escort to hospital if needed?
+- Are rates higher on weekends, public holidays, or night shifts?
+- Are prices inclusive of GST and transport?
+
+Provider candidates:
+1) Homage Singapore
+   - Fit: home care, night care, private nurse, caregiver support.
+   - Contact:
+     - Phone: +65 6100 0055
+     - Website/contact: https://www.homage.sg/contact-us/
+     - Care consult: https://www.homage.sg/get-free-consult/
+   - Pricing notes found:
+     - Night care page: overnight care approx. S$100-S$150/day; night daily living care from S$24/hour.
+     - Nursing care page: nursing care from S$26.50/hour.
+   - Useful service URLs:
+     - Home care: https://www.homage.sg/services/home-care/
+     - Night care: https://www.homage.sg/services/night-care/
+     - Private nurse: https://www.homage.sg/services/private-nurse/
+     - Home nursing: https://www.homage.sg/services/home-nursing/
+
+2) Jaga-Me
+   - Fit: home personal caregiving, home medical care, nursing procedures, medical escorts.
+   - Contact:
+     - Phone: +65 6717 3737
+     - Phone: +65 3135 1568
+     - Email: support@jaga-me.com
+     - Website/contact: https://jaga-me.com/contact-us/
+     - Operating hours listed: 7am-8pm weekdays, 7am-2pm weekends.
+   - Pricing notes found for home personal caregiving and medical escort services, including GST:
+     - 2-3 hours: weekday S$32.70/hour, weekend S$33.79/hour, public holiday S$38.15/hour.
+     - 4-7 hours: weekday S$28.34/hour, weekend S$29.43/hour, public holiday S$33.79/hour.
+     - 8-12 hours: weekday S$27.16/hour, weekend S$27.25/hour, public holiday S$32.70/hour.
+     - Listed rates apply 8am-8pm.
+     - 8pm-8am night surcharge: S$2.18/hour.
+   - Useful service URLs:
+     - Home personal care: https://jaga-me.com/home-personal-care/
+     - Pricing FAQ: https://jaga-mesupport.zendesk.com/hc/en-us/articles/8022777176857-What-are-the-prices-of-Jaga-Me-s-services
+     - Charging FAQ: https://jaga-mesupport.zendesk.com/hc/en-us/articles/23795658957337-How-does-Jaga-Me-charge-for-Home-Personal-Caregiving-services
+
+3) NTUC Health Home Care / Private Nurse
+   - Fit: home care, private nurse, post-hospital care.
+   - Contact:
+     - Hotline: +65 6590 4300
+     - Contact page: https://ntuchealth.sg/contact-us
+     - Address: 53 Ang Mo Kio Ave 3, #04-04/05 AMK Hub, Singapore 569933
+     - Listed contact hours: 8:30am-6:00pm Monday-Friday except public holidays.
+   - Operational notes found:
+     - Home care processing time may be 3-14 working days with supporting documents and assessment.
+     - Home care services are typically 8am-8pm, subject to manpower; night care may be arranged with surcharge.
+   - Cost note:
+     - NTUC Health private nurse article says average private nurse cost ranges from S$25/hour with subsidies to S$150/hour without subsidies. User should assume unsubsidized/private quotes unless proven eligible.
+   - Useful URLs:
+     - Contact: https://ntuchealth.sg/contact-us
+     - Home care: https://ntuchealth.sg/elderly-care/services/home-care
+     - Home care services: https://ntuchealth.sg/elderly-care/services/home-care/home-care-services
+     - Private nurse: https://ntuchealth.sg/elderly-care/services/home-care/private-nurse
+     - Private nurse cost article: https://ntuchealth.sg/elderly-care/resources/finances-grants/affordable-private-nurse
+
+4) Active Global Specialised Caregivers
+   - Fit: live-in caregiver, home personal care, interim caregiver service, post-operative assignments.
+   - Contact:
+     - 24/7 hotline: +65 6536 0086
+     - Email: singapore@activeglobalcaregiver.com
+     - Contact page: https://www.activeglobalcaregiver.sg/contact-us
+     - Address: 51 Goldhill Plaza, #12-11, Singapore 308900
+   - Relevant scope:
+     - Home personal care: personal hygiene, ADLs/iADLs, elder-sitting and respite.
+     - Interim caregiver service notes include assistance with medication but exclude packing medications, insulin injection, any injections, and controlled drugs.
+     - Interim caregiver service may have referral/discharge timing constraints and shift limits; verify eligibility and private availability.
+   - Useful URLs:
+     - Contact: https://www.activeglobalcaregiver.sg/contact-us
+     - Home personal care: https://www.activeglobalcaregiver.sg/home-personal-care
+     - Interim caregiver service: https://www.activeglobalcaregiver.sg/interim-caregiver-service
+     - Private nursing: https://www.activeglobalcaregiver.sg/private-nursing-services
+
+5) Aseana Caregivers
+   - Fit: home care, short-term/ad hoc caregiver, live-in caregivers.
+   - Contact:
+     - Phone: +65 6316 6618
+     - Email: enquiry@aseanacaregivers.com.sg
+     - Contact page: https://www.caregivers.com.sg/contact/
+     - Address: 81 Tagore Lane, Upper Thomson Rd, #04-13, 787502, TAG A.
+   - Relevant note:
+     - Their FAQ says short-term/ad hoc caregiver services are available with minimum 6 days, subject to caregiver availability.
+   - Useful URLs:
+     - Contact: https://www.caregivers.com.sg/contact/
+     - Main: https://www.caregivers.com.sg/
+     - Live-in caregivers: https://www.caregivers.com.sg/live-in-caregivers/
+
+================================================================================
+4. OPTION: OVERNIGHT CARE FOR FIRST 4 WEEKS
+================================================================================
+
+What overnight care usually means:
+- A caregiver is present overnight, often 8-12 hours depending on provider.
+- Helps with bathroom trips, mobility, water, positioning, and general reassurance.
+- Can call emergency services if there is chest pain, collapse, severe breathlessness, or other emergency.
+- Not equivalent to ICU or continuous clinical monitoring.
+- A non-nurse caregiver should not be expected to interpret complex medical symptoms.
+
+Typical overnight shift examples:
+- 10pm-6am (8 hours), as discussed in chat.
+- Some providers use 8pm-8am or 12-hour night shifts; confirm.
+
+Cost model 1: using Homage night care estimate
+- S$100-S$150/night x 28 nights = S$2,800-S$4,200 for 4 weeks.
+
+Cost model 2: hourly night caregiver
+- 8 hours/night x S$27-S$37/hour x 28 nights = S$6,048-S$8,288.
+- If using Jaga-Me’s listed day 8-12h tier plus S$2.18/hour night surcharge, rough night hourly would be around S$29.34/hour weekday or higher weekends/PH, excluding exact package handling.
+- 8 hours x S$29.34 x 28 nights = about S$6,572 before any weekend/PH differences.
+- This highlights why exact overnight quote matters: “sleep-in/night care package” may be much cheaper than hourly active-care pricing.
+
+Combined first 4 weeks with daytime caregiver:
+- Daytime weeks 1-2: 5-6 h/day x 14 = 70-84 hours.
+- Daytime weeks 3-4: 3-4 h/day x 14 = 42-56 hours.
+- Total daytime caregiver hours first 4 weeks: 112-140 hours.
+- Daytime cost at S$25-S$35/hour: S$2,800-S$4,900.
+- Overnight cost using S$100-S$150/night: S$2,800-S$4,200.
+- Total first 4 weeks: approx. S$5,600-S$9,100.
+- Prior chat midpoint estimate using S$150/night and S$25/hour was about S$7,300.
+
+Assistance-on-hand estimate:
+Weeks 1-2:
+- Daytime caregiver: 5-6 hours/day.
+- Overnight caregiver: 8 hours/night.
+- Total covered: 13-14 hours/day.
+- Alone: 10-11 hours/day.
+Weeks 3-4:
+- Daytime caregiver: 3-4 hours/day.
+- Overnight caregiver: 8 hours/night.
+- Total covered: 11-12 hours/day.
+- Alone: 12-13 hours/day.
+
+Best-fit overnight plan:
+- Highest safety: overnight every night for first 4 weeks + daytime support.
+- Balanced: overnight nightly for first 2 weeks, then alternate nights in weeks 3-4.
+- Cost-minimized: overnight first 7-14 nights only + stronger daytime support.
+
+Questions to ask providers:
+- Is overnight care sleep-in, awake, or active monitoring?
+- Exact shift hours?
+- Is there a bed/rest area requirement for caregiver?
+- What happens if user wakes frequently?
+- What tasks are included/excluded overnight?
+- Can the overnight caregiver assist with cats if needed?
+- Who is the escalation contact?
+- Are night rates flat or hourly?
+- Are weekends and public holidays priced differently?
+- Is GST included?
+
+================================================================================
+5. OPTION: PRIVATE NURSE / REGISTERED NURSE / ENROLLED NURSE
+================================================================================
+
+Best for:
+- Wound/incision care and dressing if prescribed.
+- Monitoring blood pressure, pulse, oxygen saturation, temperature.
+- Medication review/reminders, administration support within scope.
+- Post-surgical observation and complication screening.
+- Liaising/escalating to doctor/hospital.
+- Injections or procedures where prescribed and within scope.
+- Teaching caregiver/user how to monitor warning signs.
+
+Not ideal for:
+- Routine cooking.
+- Deep cleaning.
+- Pet care.
+- Long unskilled standby if no medical need.
+
+Cost guidance:
+- User is not Singapore Citizen/PR, so assume private/unsubsidized rates unless provider confirms otherwise.
+- NTUC Health article: average private nurse range from S$25/hour with subsidies to S$150/hour without subsidies.
+- Homage lists nursing care from S$26.50/hour, but actual cost depends on care plan, subsidies, package, timing, and service type.
+- Practical planning range for selective visits:
+  - 1-2 hour nurse visit: request provider quote.
+  - Budget placeholder: S$60-S$200 per visit depending on provider, duration, night/weekend, procedure complexity.
+- Good cost strategy:
+  - Do not use nurse for all-day care unless medically necessary.
+  - Use nurse for targeted clinical checks + caregiver for non-clinical time.
+
+Suggested nurse schedule:
+- Before discharge:
+  - Ask hospital what dressing/wound care is needed at home.
+  - Ask whether nurse visits are recommended and for how long.
+- Week 1:
+  - Nurse 2-3 visits/week or more if wound care is needed.
+- Weeks 2-4:
+  - Nurse weekly or as prescribed.
+- Weeks 5-8:
+  - Nurse PRN (as needed) unless complications or ongoing wound care.
+- Always escalate to hospital/doctor for:
+  - chest pain, severe breathlessness, fainting, fever, wound discharge/redness, sternal clicking/shifting, sudden swelling, or fast/irregular heart rhythm symptoms.
+
+Provider candidates:
+- Homage private nurse/home nursing.
+- Jaga-Me home nursing/home medical care.
+- NTUC Health private nurse.
+- Active Global private nursing.
+
+================================================================================
+6. OPTION: PART-TIME DOMESTIC HELP / CLEANING / COOKING
+================================================================================
+
+Best for:
+- Cleaning, laundry, dishes, floors.
+- Meal preparation if cooking service is explicitly offered.
+- Household errands if provider allows.
+- Reducing caregiver hours spent on non-personal-care tasks.
+
+Not ideal for:
+- Medical monitoring.
+- Assisting with showering/mobility unless trained and contracted.
+- Handling post-surgical emergencies.
+- Cat medication unless explicitly agreed.
+
+Suggested schedule:
+- Start 1-2 weeks before surgery for trial and home familiarization.
+- Weeks 1-6:
+  - 2-4 visits/week, 3-4 hours per visit, depending on meal delivery and caregiver coverage.
+- Weeks 7-10:
+  - 1-3 visits/week.
+
+Cost placeholder:
+- Typical part-time helper/cleaning planning assumption: S$20-S$30/hour.
+- 3 hours x 3 times/week x S$20-S$30 = S$180-S$270/week.
+- 4 weeks = S$720-S$1,080/month.
+- Cooking may cost more or require separate service.
+
+Provider candidates:
+1) Helpling Singapore
+   - Fit: home services/cleaning; also markets home services & caregiving.
+   - Contact:
+     - New customers: +65 8078 9532
+     - Existing customers: +65 3129 0042
+     - Email: contact@helpling.sg
+     - Website: https://www.helpling.com.sg/
+     - Office: 109 North Bridge Road, Office Tower 1, #05-21, Singapore 179097
+   - Support page mentions variety of home services and contact@helpling.sg.
+   - Useful URLs:
+     - Main/contact: https://www.helpling.com.sg/
+     - Support services: https://sg.support.helpling.com/en/support/solutions/folders/15000014358
+
+2) Urban Company Singapore
+   - Fit: routine/ad-hoc cleaning via website/app.
+   - Contact method: website/app contact flow.
+   - Useful URLs:
+     - Main: https://www.urbancompany.com/singapore
+     - Regular cleaning: https://www.urbancompany.com/singapore-routines-cleaning
+     - Ad-hoc cleaning: https://www.urbancompany.com/singapore-maid-service
+   - Note: verify exact cooking and elder/care support; primarily home services platform.
+
+3) Sendhelper by PropertyGuru
+   - Fit: home services, cleaning, laundry, handyman, cooking in some listings.
+   - Contact information found from third-party/current listings; official sendhelper.com result currently redirects to PropertyGuru in search result, so verify before relying.
+   - Reported contact:
+     - Email: info@sendhelper.com
+     - WhatsApp/Phone: +65 9387 5891 or +65 8129 4636 depending source.
+   - Useful URL from third-party review:
+     - https://www.thebestsingapore.com/biz-review/sendhelper-by-propertyguru-review/
+   - Older SEAA referral PDF listed info@sendhelper.com and WhatsApp +65 8129 4636:
+     - https://www.seaa.org.sg/wp-content/uploads/2024/05/Sendhelper-Referral-Programme-FAQ-for-SEAA.pdf
+   - Action: verify availability/status and current contact before shortlisting.
+
+================================================================================
+7. OPTION: FDW / MDW / LIVE-IN HELPER
+================================================================================
+
+Conclusion from chat:
+- Not a good fit for a purely temporary 1-3 month convalescence unless user wants long-term live-in help anyway.
+- Practical commitment tends to be around 1-2 years because of work permit, contract, agency fees, onboarding, insurance, levy, and repatriation.
+- Legally, MOM allows termination according to contract notice/payment in lieu, but early termination still involves administrative duties and costs.
+- Transfer helper may reduce onboarding time, but still not designed for short-term recovery only.
+
+Official/legal points:
+- MOM says a Work Permit is required to hire a migrant domestic worker in Singapore.
+- MOM says MDW/FDW can terminate employment contract early if required notice is served or payment in lieu is made; employer likewise should give notice as stated in contract.
+- MOM says cancel helper’s Work Permit within 1 week of her last day of work / after departure as applicable.
+- Standard employment contract references employment period as specified in work permit.
+
+Cost items to consider:
+- Salary.
+- Monthly levy.
+- Food/accommodation.
+- Agency fee.
+- Insurance/security bond.
+- Medical checkups.
+- Repatriation/air ticket on termination.
+- Time to hire and settle in.
+- Employer responsibilities.
+
+Useful official URLs:
+- MOM Work Permit for migrant domestic worker:
+  https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker
+- MOM contracts and safety agreement:
+  https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/contracts-and-safety-agreement
+- MOM early termination FAQ:
+  https://www.mom.gov.sg/faq/work-permit-for-fdw/is-my-fdw-allowed-to-end-her-two-year-employment-contract-prematurely
+- MOM ending helper employment:
+  https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/employment-rules/copy-of-thinking-of-ending-your-helpers-employment-know-the-right-things-to-do
+- MOM cancel Work Permit:
+  https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/cancel-a-work-permit
+
+When FDW/live-in caregiver may become appropriate:
+- Recovery expected to require >3 months heavy support.
+- User wants ongoing household support beyond surgery.
+- User needs 24/7 live-in support and is willing to take employer responsibilities.
+- User needs pet support integrated into daily household routine.
+
+Alternative to FDW:
+- Live-in caregiver agencies such as Active Global or Aseana may be more relevant for medical/post-discharge support, but still need quote and minimum duration.
+
+================================================================================
+8. PET CARE PLAN FOR 2 CATS
+================================================================================
+
+Why separate pet planning is needed:
+- Caregivers/nurses may not reliably handle cats unless agreed in scope.
+- Cat litter can be heavy and bending/lifting is restricted after sternotomy.
+- If one cat has a medical condition, arrange trained backup before surgery.
+- Sudden pet jumping/pulling or bending to feed/clean can strain sternum.
+
+Minimum pet tasks to delegate for first 4-6 weeks:
+- Feeding.
+- Water refresh.
+- Litter scooping and full litter changes.
+- Trash disposal for litter.
+- Basic observation of appetite, stool, urination, vomiting, lethargy.
+- Medication/insulin only if sitter is experienced and agreed.
+
+Pet sitter plan:
+- Trial at least 2-4 weeks before surgery.
+- Hire sitter for home visits even if caregiver is present, unless caregiver explicitly accepts cat tasks.
+- Prepare written cat instructions.
+- Label food/medications.
+- Keep extra supplies at waist height, not floor level.
+- Avoid lifting large litter bags; pre-portion litter or use smaller bags.
+- Consider medical boarding for a diabetic/medically complex cat if home support is unreliable.
+
+Provider candidates:
+1) Pawshake Singapore
+   - Fit: local pet sitters, drop-in home visits, contact sitters via profile.
+   - Source says pet carers can provide drop-in visits; can include medication, food, and water refresh depending on sitter.
+   - Contact/booking method: search by location/date and message sitter via profile/contact button.
+   - Website: https://www.pawshake.com.sg/
+   - Pet sitter search: https://www.pawshake.com.sg/petsitters/singapore
+   - How it works: https://support.pawshake.com/hc/en-sg/articles/115002030183-How-does-Pawshake-work
+
+2) PetBacker Singapore
+   - Fit: pet sitting, pet house sitting, cat home visits, pet taxi.
+   - Contact/booking method: app/website; post request or message sitters; support via help center/talk to support.
+   - Website/search: https://www.petbacker.com/s/Singapore%2C%20Singapore%2C%20Singapore
+   - Support: https://www.petbacker.com/help-center/pet-parents/how-do-i-contact-support-for-help
+   - Some individual sitter profiles mention medication/injection experience, but this must be verified sitter-by-sitter.
+   - Example source showing medication/injection sitter experience:
+     https://www.petbacker.com/singapore/sitting/woodlands/singapore/aileen-k-singapore-home-visit-pet-sitter
+
+================================================================================
+9. MEAL DELIVERY / TINGKAT / PREPARED MEALS
+================================================================================
+
+Purpose:
+- Reduce need for daily cooking.
+- Reduce caregiver hours.
+- Ensure reliable meals during fatigue.
+- Ask surgeon/dietitian about sodium, fluid restrictions, anticoagulant interactions, and post-cardiac dietary requirements.
+
+Shortlisting criteria:
+- Can they provide lower-sodium or heart-healthy options?
+- Are meals delivered daily or in batches?
+- Are meals microwave-ready?
+- Can user pause/reschedule during hospital stay?
+- Minimum subscription duration?
+- Delivery window?
+- Can meals be left safely outside door if user cannot answer quickly?
+- Does menu conflict with cardiac diet, diabetes, anticoagulants, kidney restrictions, etc.?
+
+Provider candidates:
+1) YoloFoods
+   - Fit: healthy/ready meals.
+   - Contact:
+     - Email: order@yolofoods.sg
+     - WhatsApp only: +65 8858 2054
+     - Sales/partnerships: sales@yolofoodsgroup.com
+   - Contact page: https://yolofoods.sg/contactus
+   - Main: https://yolofoods.sg/
+
+2) Nutrition Kitchen SG
+   - Fit: ready-made meal plans delivered daily.
+   - Contact:
+     - Phone/WhatsApp: +65 9105 2001
+     - Email for plan changes/cancellations: info@nutritionkitchensg.com
+   - Contact page: https://nutritionkitchensg.com/pages/contact
+   - FAQ: https://nutritionkitchensg.com/pages/faqs
+   - Main: https://nutritionkitchensg.com/
+
+3) Kim Paradise
+   - Fit: tingkat/home-cooked meal delivery.
+   - Contact:
+     - Phone: +65 6255 1000
+     - Email: enquiry@kimparadise.com.sg
+   - Contact page: https://kimparadise.com.sg/contact/
+   - Main: https://kimparadise.com.sg/
+   - Note: orders need advance lead time; source says 3 working days/72 hours in FAQ.
+
+4) Select Catering / Tingkat
+   - Fit: tingkat dinner delivery; less oil, less salt, no added MSG stated on tingkat page.
+   - Contact:
+     - Tel: +65 6852 3333
+     - Email: sales@select.com.sg
+     - Fax: +65 6852 3335
+   - Contact page: https://www.selectcatering.com.sg/contact-us/
+   - Terms/contact details: https://www.selectcatering.com.sg/terms-conditions/
+   - Tingkat page: https://www.selectcatering.com.sg/tingkat/
+
+================================================================================
+10. SUBSIDY / NON-CITIZEN OR NON-PR CONSIDERATIONS
+================================================================================
+
+User is not Singapore Citizen or PR.
+Planning assumption:
+- Do not rely on government subsidies.
+- Ask each provider for private/unsubsidized quote.
+- Ask hospital medical social worker whether any insurer/employer benefit or private package is available.
+
+Relevant source:
+- AIC Enhanced Home Personal Care says cost starts from S$25/hour before subsidies, and to qualify for subsidies the loved one must be a Singapore Citizen or PR; subsidies are means-tested.
+- URL: https://www.aic.sg/Care-Services/Enhanced-Home-Personal-Care
+
+Provider quote questions:
+- “I am not Singaporean/PR. Please quote private/unsubsidized rates.”
+- “Is GST included?”
+- “Are there surcharges for weekends, public holidays, and night hours?”
+- “Are there package rates for 4 weeks of nightly care?”
+- “Can I book before surgery with a start date dependent on hospital discharge?”
+- “What happens if discharge date changes?”
+
+================================================================================
+11. SCENARIO COST MODELS
+================================================================================
+
+Scenario A: Caregiver-only staged plan, no overnight
+Use case:
+- Lower cost.
+- User is comfortable being alone overnight.
+- Emergency contact/call button available.
+Schedule:
+- Weeks 1-2: 5-6 hours/day.
+- Weeks 3-6: 3-4 hours/day.
+- Weeks 7-10: 10-12 hours/week.
+Estimated cost:
+- S$4,850-S$8,540 for 10 weeks using S$25-S$35/hour.
+Assistance:
+- Weeks 1-2: 5-6 hours/day.
+- Weeks 3-6: 3-4 hours/day.
+- Weeks 7-10: 10-12 hours/week.
+Risks:
+- Alone at night.
+- Need emergency plan.
+- May still need nurse visits if wound care is required.
+
+Scenario B: Overnight care for first 4 weeks + daytime caregiver
+Use case:
+- Best fit if user lives alone and wants night safety net.
+Schedule:
+- Weeks 1-2: daytime 5-6 hours/day + overnight 8 hours/night.
+- Weeks 3-4: daytime 3-4 hours/day + overnight 8 hours/night.
+- Weeks 5-10: transition to daytime-only per need.
+Estimated first 4 weeks:
+- Daytime: S$2,800-S$4,900.
+- Overnight: S$2,800-S$4,200 if using S$100-S$150/night package.
+- Total first 4 weeks: S$5,600-S$9,100.
+Assistance:
+- Weeks 1-2: 13-14 hours/day covered.
+- Weeks 3-4: 11-12 hours/day covered.
+Risks:
+- Exact overnight pricing may be much higher if billed hourly active-care.
+- Caregiver is not nurse.
+
+Scenario C: Balanced safety/cost
+Use case:
+- Good compromise.
+Schedule:
+- Weeks 1-2: overnight every night + daytime 4-5 hours/day.
+- Weeks 3-4: overnight alternate nights + daytime 3 hours/day.
+- Weeks 5-8: caregiver 3 hours/day or 3-5 days/week.
+- Nurse check: 1-2x/week initially or as prescribed.
+Estimated cost:
+- Requires provider quotes, but likely lower than full 4-week overnight.
+- Prior planning target: around S$5k-S$6.5k for first month if careful with package rates and shorter daytime visits.
+Risks:
+- Some nights alone in weeks 3-4.
+- Need emergency contact and cat backup.
+
+Scenario D: High-clinical-support model
+Use case:
+- More complex surgery, wound care, complications, high anxiety living alone.
+Schedule:
+- Overnight caregiver 2-4 weeks.
+- Daytime caregiver 4-6 hours/day initially.
+- Nurse visits 2-3x/week week 1, then weekly.
+Estimated cost:
+- Higher than Scenario B; obtain provider package quotes.
+Risks:
+- More expensive.
+- Need clear division between nurse vs caregiver vs cleaner.
+
+================================================================================
+12. PRE-SURGERY PREPARATION CHECKLIST
+================================================================================
+
+8-12 weeks before surgery:
+- Confirm surgery type: sternotomy/open chest vs minimally invasive.
+- Ask surgeon for expected restrictions: lifting limit, driving, public transport, return to work, wound care.
+- Ask hospital discharge planner for home care recommendations.
+- Shortlist 2 caregiver providers and 1 backup.
+- Shortlist pet sitter and do meet-and-greet.
+- Decide meal delivery/tingkat trial.
+- Ask employer for remote work/hybrid plan for at least 6-8 weeks if sternotomy.
+
+4-6 weeks before surgery:
+- Trial caregiver or cleaner.
+- Trial pet sitter.
+- Trial meal delivery.
+- Reorganize home:
+  - put cat food/litter at waist height;
+  - pre-portion litter;
+  - remove trip hazards;
+  - put chargers/phone/water/meds near bed;
+  - use shower chair if needed;
+  - stock light groceries.
+- Book tentative caregiver schedule with flexible start date.
+
+1-2 weeks before surgery:
+- Confirm discharge contact process.
+- Confirm who receives you at home.
+- Confirm first 72 hours after discharge coverage.
+- Prepare emergency list and medication list.
+- Arrange cat supplies for 4-6 weeks.
+- Clean home before admission.
+- Prepare low-effort meals/snacks.
+
+At hospital discharge:
+- Get written instructions:
+  - wound care;
+  - bathing;
+  - medication schedule;
+  - pain plan;
+  - lifting restriction;
+  - red flags;
+  - follow-up dates;
+  - cardiac rehab dates;
+  - emergency contact number.
+- Confirm whether nurse visits are required.
+- Activate caregiver start date.
+
+================================================================================
+13. EMERGENCY / ESCALATION PLAN
+================================================================================
+
+Minimum setup:
+- Phone always within reach.
+- Charger at bed.
+- Emergency number 995 saved.
+- Provider escalation number saved.
+- Neighbor/friend/colleague backup contact.
+- Copy of hospital discharge summary accessible.
+- Medication list printed.
+- Cats’ care instructions printed.
+
+Red flags requiring urgent medical attention:
+- Chest pain/pressure not clearly explained by wound pain.
+- Severe shortness of breath.
+- Fainting/collapse.
+- Confusion.
+- Fever.
+- Wound redness, swelling, pus/discharge, opening, or worsening pain.
+- Sternal clicking, shifting, or instability.
+- Sudden leg swelling or severe calf pain.
+- Fast/irregular heartbeat with symptoms.
+- Excessive bleeding or black stools if on blood thinners.
+
+================================================================================
+14. DATA FIELDS FOR LLM SHORTLISTING
+================================================================================
+
+Selection criteria:
+- Total cost for first 4 weeks.
+- Total cost through 8-10 weeks.
+- Ability to provide same caregiver.
+- Overnight package availability.
+- Experience with post-cardiac-surgery patients.
+- Ability to support cats/litter or willingness to work around cats.
+- Nurse add-on availability.
+- Weekend/PH surcharge.
+- Cancellation flexibility.
+- Minimum booking duration.
+- Lead time.
+- GST included.
+- Private/unsubsidized pricing.
+- App/phone support reliability.
+- Emergency escalation protocol.
+
+Recommended initial outreach list:
+1. Homage: ask for 4-week overnight + daytime caregiver quote, plus optional nurse visits.
+2. Jaga-Me: ask for 4-week day/night caregiver quote using official hourly rates and night surcharge; ask about post-cardiac experience.
+3. NTUC Health: ask about private nurse/home care availability and lead time; ask for non-subsidized quote.
+4. Active Global: ask about short-term post-op/interim caregiver or live-in caregiver package.
+5. Aseana: ask about short-term/ad hoc caregiver minimum 6 days and rates.
+6. Pawshake/PetBacker: find a cat sitter comfortable with medical routines; do trial.
+7. Meal provider: trial one healthy/low-sodium-ready option.
+
+Suggested message to care providers:
+"Hi, I am planning to be discharged after elective heart surgery in a few months and may need support for 4-8 weeks: daytime help with showering/mobility, meal setup, light cleaning, medication reminders, and possibly overnight care for the first 2-4 weeks. I have cats, so please let me know whether caregivers can work in a home with pets and whether light pet tasks such as feeding/litter can be included or excluded. Please provide private quote options, minimum booking duration, weekend/night surcharge, and availability for the same caregiver."
+
+Suggested message to pet sitters:
+"Hi, I am planning elective surgery and need a reliable cat sitter for 2 cats during recovery. Tasks include feeding, water, litter cleaning, and observing appetite/stool/urination. One cat may require medical monitoring/medication depending on the final plan. Are you comfortable with cats needing medical routines, and can we do a trial visit before surgery?"
+
+================================================================================
+15. SOURCE INDEX
+================================================================================
+
+Caregiver/nurse/home care:
+- Homage contact: https://www.homage.sg/contact-us/
+- Homage free consult: https://www.homage.sg/get-free-consult/
+- Homage home care: https://www.homage.sg/services/home-care/
+- Homage night care: https://www.homage.sg/services/night-care/
+- Homage private nurse: https://www.homage.sg/services/private-nurse/
+- Homage home nursing: https://www.homage.sg/services/home-nursing/
+- Jaga-Me contact: https://jaga-me.com/contact-us/
+- Jaga-Me home personal care: https://jaga-me.com/home-personal-care/
+- Jaga-Me pricing FAQ: https://jaga-mesupport.zendesk.com/hc/en-us/articles/8022777176857-What-are-the-prices-of-Jaga-Me-s-services
+- Jaga-Me charging FAQ: https://jaga-mesupport.zendesk.com/hc/en-us/articles/23795658957337-How-does-Jaga-Me-charge-for-Home-Personal-Caregiving-services
+- NTUC Health contact: https://ntuchealth.sg/contact-us
+- NTUC Health home care: https://ntuchealth.sg/elderly-care/services/home-care
+- NTUC Health home care services: https://ntuchealth.sg/elderly-care/services/home-care/home-care-services
+- NTUC Health private nurse: https://ntuchealth.sg/elderly-care/services/home-care/private-nurse
+- NTUC Health private nurse cost article: https://ntuchealth.sg/elderly-care/resources/finances-grants/affordable-private-nurse
+- AIC Enhanced Home Personal Care: https://www.aic.sg/Care-Services/Enhanced-Home-Personal-Care
+- Active Global contact: https://www.activeglobalcaregiver.sg/contact-us
+- Active Global home personal care: https://www.activeglobalcaregiver.sg/home-personal-care
+- Active Global interim caregiver: https://www.activeglobalcaregiver.sg/interim-caregiver-service
+- Active Global private nursing: https://www.activeglobalcaregiver.sg/private-nursing-services
+- Aseana contact: https://www.caregivers.com.sg/contact/
+- Aseana main: https://www.caregivers.com.sg/
+- Aseana live-in caregivers: https://www.caregivers.com.sg/live-in-caregivers/
+
+Cleaning/domestic help:
+- Helpling main/contact: https://www.helpling.com.sg/
+- Helpling support services: https://sg.support.helpling.com/en/support/solutions/folders/15000014358
+- Urban Company Singapore: https://www.urbancompany.com/singapore
+- Urban Company regular cleaning: https://www.urbancompany.com/singapore-routines-cleaning
+- Sendhelper third-party review/contact: https://www.thebestsingapore.com/biz-review/sendhelper-by-propertyguru-review/
+- Sendhelper SEAA referral PDF: https://www.seaa.org.sg/wp-content/uploads/2024/05/Sendhelper-Referral-Programme-FAQ-for-SEAA.pdf
+
+FDW/MDW:
+- MOM Work Permit for MDW: https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker
+- MOM contracts and safety agreement: https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/employers-guide/contracts-and-safety-agreement
+- MOM early termination FAQ: https://www.mom.gov.sg/faq/work-permit-for-fdw/is-my-fdw-allowed-to-end-her-two-year-employment-contract-prematurely
+- MOM ending helper employment: https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/publications-and-resources/employment-rules/copy-of-thinking-of-ending-your-helpers-employment-know-the-right-things-to-do
+- MOM cancel Work Permit: https://www.mom.gov.sg/passes-and-permits/work-permit-for-foreign-domestic-worker/cancel-a-work-permit
+
+Pet care:
+- Pawshake main: https://www.pawshake.com.sg/
+- Pawshake Singapore sitters: https://www.pawshake.com.sg/petsitters/singapore
+- Pawshake how it works: https://support.pawshake.com/hc/en-sg/articles/115002030183-How-does-Pawshake-work
+- PetBacker Singapore search: https://www.petbacker.com/s/Singapore%2C%20Singapore%2C%20Singapore
+- PetBacker support: https://www.petbacker.com/help-center/pet-parents/how-do-i-contact-support-for-help
+
+Meal delivery:
+- YoloFoods contact: https://yolofoods.sg/contactus
+- YoloFoods main: https://yolofoods.sg/
+- Nutrition Kitchen contact: https://nutritionkitchensg.com/pages/contact
+- Nutrition Kitchen FAQ: https://nutritionkitchensg.com/pages/faqs
+- Nutrition Kitchen main: https://nutritionkitchensg.com/
+- Kim Paradise contact: https://kimparadise.com.sg/contact/
+- Kim Paradise main: https://kimparadise.com.sg/
+- Select Catering contact: https://www.selectcatering.com.sg/contact-us/
+- Select Catering terms/contact details: https://www.selectcatering.com.sg/terms-conditions/
+- Select Catering tingkat: https://www.selectcatering.com.sg/tingkat/
+
+Surgery/recovery:
+- MFT NHS recovery PDF: https://mft.nhs.uk/app/uploads/2019/08/section-3.pdf
+- Cleveland Clinic heart surgery recovery: https://health.clevelandclinic.org/what-you-can-expect-as-you-recover-from-heart-surgery
+- Cleveland Clinic sternotomy: https://my.clevelandclinic.org/health/treatments/24016-sternotomy
+- SingHealth/HealthXchange recovery: https://www.healthxchange.sg/how-to-manage/cardiovascular-disease/heart-surgery-how-to-recover-fast
+- University Hospital Southampton cardiac surgery PDF: https://www.uhs.nhs.uk/Media/UHS-website-2019/Patientinformation/Heartandlungs/Cardiacsurgery-1362-PIL.pdf

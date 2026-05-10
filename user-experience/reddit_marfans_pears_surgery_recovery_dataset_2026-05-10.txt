@@ -1,0 +1,613 @@
+Reddit /r/marfans PEARS Surgery Knowledge Capture
+Capture date: 2026-05-10
+Purpose: Text corpus for later LLM analysis of Reddit user-reported information about PEARS surgery, post-surgery recovery, complications, logistics, and decision factors.
+
+IMPORTANT SCOPE / RELIABILITY NOTES
+- Source scope: public Reddit pages in r/marfans discoverable through web search and accessible in the browsing session. Reddit hides/deletes/collapses some comments; this is a best-effort capture, not an exhaustive subreddit scrape.
+- Evidence type: anecdotal patient/caregiver reports and opinions from Reddit. Treat as hypotheses / experience reports, not medical guidance.
+- Medical caveat: surgical candidacy, timing, medication changes, activity restrictions, and follow-up imaging should be confirmed with an aortic/Marfan specialist.
+- Terminology: PEARS = Personalised External Aortic Root Support. ExoVasc/Exstent is the custom external mesh/sleeve support discussed in posts.
+- De-identification: Reddit usernames are retained only where helpful for source tracking; do not treat these as verified identities.
+
+============================================================
+1. SOURCE INDEX
+============================================================
+
+[R01] "Long term viability of PEARS"
+URL: https://www.reddit.com/r/marfans/comments/1r7j2hc/long_term_viability_of_pears/
+Relevant captured lines:
+- 5-year post-PEARS user report: no complications, heart healthiest part after PEARS [R01:L264-L265].
+- Recent PEARS user argues VSRR failure risk, PEARS does not preclude future VSRR, and states no known PEARS database cases needing VSRR [R01:L268-L272].
+- PEARS graft long-term claim: longest ExoVasc PEARS graft in a patient is 22 years and still going [R01:L270].
+- Graft removability/future surgery debate: one user says London Bridge doctors told them PEARS graft cannot be taken out but should not interfere with future heart surgery [R01:L283-L284].
+- Other users say PEARS is not designed to be removable and aorta incorporates it over time; David/VSRR after PEARS may remain possible [R01:L289-L301].
+
+[R02] "Has anyone done / considered the personalised external aortic root support (Pears) option for surgery?"
+URL: https://www.reddit.com/r/marfans/comments/10kifo6/has_anyone_done_considered_the_personalised/
+Relevant captured lines:
+- User asks about PEARS and cost [R02:L83-L85].
+- Reported cost: about USD 50k all-in; 8 weeks post-op and "pretty much normal" [R02:L107-L112].
+- Prehabilitation: yoga before surgery, discharged on hospital day 4, user felt this was faster than most [R02:L122-L126].
+- Medication/activity: same user expected to get off meds if meds were only for aortic growth and reported "no restrictions" [R02:L140-L146].
+- Question about future dilation outside reinforced root is raised [R02:L150-L152].
+
+[R03] "I traveled from Canada to the Czech Republic for PEARS"
+URL: https://www.reddit.com/r/marfans/comments/1itxv3c/i_traveled_from_canada_to_the_czech_republic_for/
+Relevant captured lines:
+- Profile: 38M from Canada, aorta increased from 42mm to 45mm and was referred for VSRR/David, then chose PEARS after reading papers [R03:L80-L88].
+- Decision factors: preserve native valve, lower risk of aortic regurgitation / type B dissection, beating-heart surgery usually without bypass, zero aortic cross-clamp time, PEARS can be converted to VSRR if necessary [R03:L80-L88].
+- London Bridge estimated expense: about EUR 55,000 for surgery plus London living costs, according to online posts [R03:L89-L90].
+- Czech centers considered: IKEM Prague and CKTCH Brno; reported procedure counts: IKEM about 80 PEARS at inquiry, CKTCH 68 and 22 PEARS in 2024 [R03:L91-L93].
+- CKTCH Brno cost: under EUR 30,000, about half London; first contact to surgery about 4 months [R03:L94].
+- Pre-op: hospital check-in 2 days before surgery, surgery Wednesday, belongings separated; keep phone charger in hygiene bag [R03:L95-L98].
+- Post-op: woke already extubated in ICU with neck IV, five chest drains, catheter, nasal oxygen, EKG/SP02, pain managed with esketamine/ibuprofen/acetaminophen, 1:1 ICU nursing [R03:L98-L100].
+- Severe pectus excavatum: open question whether bypass needed; surgeons completed without bypass [R03:L100].
+- Stepdown unit: moved day 1 post-op, stayed 2 nights; privacy and language barriers were unpleasant [R03:L101-L102].
+- CT imaging protocol: PEARS/Exstent CT must be done correctly; first scan had to be repeated; should be cardiac-gated with ECG leads and correct viewing area [R03:L132-L133].
+- Early recovery comment: at about 1 month, user felt about 80%, no complications; biggest lingering issue was sleeping semi-reclined because sternotomy made side-sleeping uncomfortable [R03:L161-L168].
+- Coughing: first 2-3 weeks were difficult; used a pillow to brace chest [R03:L201-L206].
+- Anesthesia: no memory of going under, waking felt like waking from sleep; not alarming [R03:L238-L245].
+- Debate: another user reports a US cardiologist was dismissive of PEARS, saying it may not necessarily stop aortic tissue damage/tearing; presented as one clinician's opinion, not consensus [R03:L216-L223].
+
+[R04] "PEARS surgery experience when you have lung issues"
+URL: https://www.reddit.com/r/marfans/comments/1pau8rp/pears_surgery_experience_when_you_have_lung_issues/
+Relevant captured lines:
+- Original poster asks specifically about PEARS with lung issues, intubation/ventilator, hospital stay, UK/Europe international patient costs, and Dr Conal Austin [R04:L88-L90].
+- User with prior collapsed lung had PEARS with Dr Austin; lung collapsed again, but user rated surgery as worth it; reported lifting weights, playing basketball, feeling better than ever; all-in cost about USD 70k [R04:L112-L117].
+- Day-by-day London Bridge diary: ICU day 1, slight discomfort, lines, hard deep breath, night sweats, near-continuous ICU nurse; day 2 worse with line discomfort, stood up, back ache, low appetite, nausea; transferred to High Dependency Unit; day 3 walking/physio/shower, partial collapsed lung, shallow breathing, coughing to clear fluid; day 4 improvement; day 5 discharge [R04:L118-L128].
+- Hotel recovery: rest/walk/eat/rest; walked 1 km on hotel treadmill on discharge day; within days walking several miles; elevated back sleeping and night sweats; fatigue/naps; outings and shopping; cleared to fly back to US roughly 2.5 weeks post-op and stayed 3 weeks total; working 80% in-office and walking miles/day at 2.5 weeks [R04:L129-L133].
+- Lung capacity: same user says no lung issues pre-op except collapsed lung at birth, was a swimmer, no issue post-op [R04:L142-L147].
+- Aortic size: 48mm before surgery and 42mm after using a 95% PEARS graft [R04:L158-L163].
+- Decision factors: read papers, spoke with surgeons/patients, wanted active workout lifestyle, age 32 made recovery easier than later ages [R04:L160-L163].
+
+[R05] "Questions about PEARS"
+URL: https://www.reddit.com/r/marfans/comments/1qxs9ov/questions_about_pears/
+Relevant captured lines:
+- Original poster: 34F with Marfan, aortic root 4.6cm, mild regurgitation, mild MVP; asks about PEARS candidacy, max dilation, future surgery after PEARS [R05:L83-L93].
+- User report: PEARS 14 months earlier, lifting weights and basketball; pre-op 4.7/4.8, now 4.1; Stanford post-surgery CT/echo OK; London Bridge with Dr Conal Austin [R05:L114-L123].
+- Advice: send CT to PEARS center; mild regurgitation may argue not waiting; literature/user believes regurgitation can improve after PEARS [R05:L140-L143].
+- Revision/future surgery: PEARS literature discussed as accommodating revision; mesh may be cut if necessary; incorporated mesh may make tissues more robust, per literature quote shared by user [R05:L140-L155].
+- Another user notes aorta may grow over/envelop mesh [R05:L147-L155].
+
+[R06] "Leave for London for PEARS today."
+URL: https://www.reddit.com/r/marfans/comments/1pi9oh3/leave_for_london_for_pears_today/
+Relevant captured lines:
+- User mentions deciding against VSRR after hearing from another patient about neurologic complications after bypass; another commenter reports father had cognitive recovery issues after root replacement on bypass [R06:L121-L128].
+- 2.5-year post-PEARS user says it was the best choice and worth it [R06:L130-L135].
+- Repeat of London day-by-day diary from [R04] [R06:L144-L165].
+- 12-week post-PEARS London user: anxiety is hard to fully ease; team inspired confidence; able to walk a flight of stairs two days after surgery; back to work and weekly nature walks with dog [R06:L174-L184].
+- 5-year post-PEARS user from US went alone, had no issues, quick recovery, discharged in five days [R06:L207-L211].
+- User says 2023 PEARS at Barts was excellent; "not pleasant" but treated attentively [R06:L212-L221].
+- International coordination: initial consultation by Zoom, then email before travel [R06:L241-L252].
+
+[R07] "Personalised External Aortic Root Support (PEARS)"
+URL: https://www.reddit.com/r/marfans/comments/f0dvhp/personalised_external_aortic_root_support_pears/
+Relevant captured lines:
+- Claimed by Tal Golesworthy/TaliesinJohn: 300 patients with dilated aortas from Marfan, LDS, and other aortopathies; 845 post-op patient-years; no dilations/dissections; patients from US, Brazil, Colombia, Italy, France, Bulgaria, Hong Kong; after 15.5 years his aorta stable, no dissections, competent valve [R07:L82-L86].
+- David procedure moderator comment: David spares valve and avoids anticoagulation but user wishes they knew about PEARS earlier [R07:L106-L110].
+- Surgery threshold answer: no simple threshold; depends on CTD type, dilation rate, family history, genetic test, and disease-specific dissection thresholds; examples of dissection at 3.6cm and no dissection at 7.5cm; Australia/NZ centers mentioned [R07:L136-L146].
+
+[R08] "Anyone who got the ExoVasc 'Personalised External Aortic Root Support' surgery done?"
+URL: https://www.reddit.com/r/marfans/comments/3x7ta7/anyone_who_got_the_exovasc_personalised_external/
+Relevant captured lines:
+- 11-year-old discussion: user outside Europe asks costs/experience; notes procedure seemed promising and available in UK/some European countries [R08:L80-L83].
+- Commenters had not heard of it and hoped it reached US/India [R08:L103-L128].
+
+[R09] "How to get pears done?"
+URL: https://www.reddit.com/r/marfans/comments/1mbnmnn/how_to_get_pears_done/
+Relevant captured lines:
+- Original poster: 23, aortic root 4.4cm, worried about cost and access from US, wants PEARS to regain life [R09:L80-L86].
+- Logistics response: PEARS not yet available in US; Americans often go to HCA London Bridge; price tag approximately USD 60k plus travel/lodging/food; expect 2 weeks to 1 month abroad, most time hotel/Airbnb recovery; Eastern Europe may be cheaper; process can involve HCA coordinator, Marfan Facebook groups, Tal Golesworthy [R09:L107-L112].
+- Insurance variability: some people got approval, others did not [R09:L119-L124].
+- Facebook resource: PEARS Exstent Patients group mentioned [R09:L136-L141].
+- Cost comparison claim: PEARS costs less than traditional David procedure, according to commenter [R09:L140-L144].
+- Exercise: one post-PEARS user with root 4.7/4.8 says surgeon deferred lifting advice to Marfan Foundation; user reintroduced very light weights only, high reps, no bearing down; also uses exercise bike; current aortic size not radically less, maybe max 5% less; surgery was 8 months earlier [R09:L152-L158].
+
+[R10] "Anyone here have PEARS done on the NHS?"
+URL: https://www.reddit.com/r/marfans/comments/1epr1ww/anyone_here_have_pears_done_on_the_nhs/
+Relevant captured lines:
+- NHS age-15 PEARS in 2022: no procedure or life-after-surgery complications; chest pain largely diminished; 5 days in hospital; home after; returned to school after 2-2.5 months; annual checkups stable; Marfan may make recovery longer [R10:L107-L129].
+- UK access: user in England said it was relatively easy; Scotland commenter said it seemed hard [R10:L129-L150].
+- Another user: PEARS January 2023, physically recovered quickly, good nurses; later comment says London, measurements fine, no more surgeries [R10:L177-L191].
+- Belfast 2020 user: "piece of cake, easy recovery" [R10:L195-L200].
+
+[R11] "Need advice please!"
+URL: https://www.reddit.com/r/marfans/comments/1h0s4cg/need_advice_please/
+Relevant captured lines:
+- OP: 23F with Marfan, aorta grew from 4.1cm to 4.57cm in a year; choosing between VSRR and PEARS; concerned because PEARS not yet performed in her country and team training needed [R11:L83-L96].
+- Caregiver report: husband had PEARS 1.5 years earlier; argues PEARS has more than 5 years data and first patient >20 years; reasons chosen over VSRR: no bypass, no future re-op, no blood thinners, no exercise restrictions [R11:L117-L121].
+- Commenter says PEARS is not in US but insurance may pay to go abroad [R11:L127-L132].
+- Procedure summary: open chest but heart not opened, no heart-lung machine, custom wrap around ascending aorta, quicker recovery; commenter’s son had PEARS, out of hospital in 3 days, 5 years post-op doing fantastic [R11:L140-L153].
+- Another commenter: PEARS beating heart; good post-op data but less than older procedure; surgeon experience matters [R11:L167-L172].
+- CCWhistle: third PEARS patient in their country; supervising surgeon present; root 4.7/4.8; lack of experience less scary due to lower risk profile; only issue heart rate, cardiologist said body adjusting and no meds prescribed; would recommend PEARS [R11:L180-L187].
+- Advice: ask how surgical team will make PEARS safe if experience limited [R11:L191-L194].
+
+[R12] "PEARS Procedure"
+URL: https://www.reddit.com/r/marfans/comments/dl81cc/pears_procedure/
+Relevant captured lines:
+- OP from US: PEARS not offered in US, insurance would not cover abroad, apparent cost USD 65k, may choose David because covered in US [R12:L78-L86].
+- Patient no. 208 had PEARS in April, smooth, off all meds, NHS [R12:L107-L135].
+- Comment warns even if off meds, rest of aorta still needs protection and yearly scans [R12:L151-L155].
+- PEARS vs David/Bentall explanation quoted: TRR uses mechanical valve and lifelong anticoagulation; VSRR preserves valve but is technically demanding and can fail/re-operation; PEARS developed to avoid anticoagulation and retain native aortic structures [R12:L118-L123].
+- OP concern: David requires cardiopulmonary bypass, higher mortality, reoperation; claims PEARS had 15 years zero deaths/reoperations and quicker/less invasive; money/insurance is main barrier [R12:L176-L190].
+
+[R13] "Will there ever be a cure for us?"
+URL: https://www.reddit.com/r/marfans/comments/1awhqb0/will_there_ever_be_a_cure_for_us/
+Relevant captured lines:
+- PEARS is not definitive treatment; type B dissection of descending aorta may still be possible, per commenter [R13:L158-L163].
+- Counter-comment claims London team wrapped entire aorta in one case and no PEARS patients had type B dissection, but asks for/points to further evidence [R13:L164-L181].
+- Lay definition: PEARS = 3D-printed custom mesh wrapped around aorta to compress root dilation and provide tensile strength [R13:L184-L200].
+
+[R14] "Can you lift heavy weights after having a valve replacement?"
+URL: https://www.reddit.com/r/marfans/comments/zag1qc/can_you_lift_heavy_weights_after_having_a_valve/
+Relevant captured lines:
+- User recommends light weight/higher reps; heavy strain spikes blood pressure and replacement does not make risk zero; PEARS described as option with least restrictions and offered by Dr Austin/London Bridge for US foreigners [R14:L107-L115].
+- User asks whether PEARS prevents dilation if lifting; answer says yes but procedure is new-ish and has less long-term data [R14:L118-L126].
+- Others emphasize continuing risk with heavy lifting and favor low weight/high reps/low intensity; ask cardiologist for individualized guidelines [R14:L147-L165].
+
+[R15] "PEARS marfan"
+URL: https://www.reddit.com/r/marfans/comments/1iw6ido/pears_marfan/
+Relevant captured lines:
+- Repeat of London diary: London Bridge rated 10/10, hotel recovery focused on rest/walk/eat/rest, 1km treadmill on discharge day, walking miles days later, elevated sleeping/night sweats/fatigue, stayed three weeks total, cleared to return to US around 2.5 weeks [R15:L131-L136].
+- Pre-op/recovery tips from another commenter: 23-year-old son walking half-mile in one week and independent outings by two weeks (hearsay); recliner bed helpful; pillow to hug for cough; no lifting for 3 months until sternum healed; fever/increased HR/AFib can happen after cardiac surgery while body adjusts [R15:L151-L158].
+
+[R16] "PEARS with Pectus Excavatum"
+URL: https://www.reddit.com/r/marfans/comments/1izqa1v/pears_with_pectus_excavatum/
+Relevant captured lines:
+- Advice: send records to Conal Austin’s office; user reports Dr Austin performed their PEARS and even sent a video [R16:L109-L125].
+- ACanadianPear: severe symmetric pectus excavatum, Haller index 8+, heart displaced left; PEARS worth inquiry, especially if other option is warfarin for life [R16:L134-L141].
+- Another user had PEARS without pectus issue and reports smooth recovery [R16:L142-L146].
+
+[R17] "Fast Heart Rate After PEARS"
+URL: https://www.reddit.com/r/marfans/comments/1gzoe46/fast_heart_rate_after_pears/
+Relevant captured lines:
+- OP one month post-PEARS: stopped meds per doctors, BP stable around 110/72, but resting HR about 98, standing 115-120, exercise recovery >30 min, pounding heart, anxiety about not returning to normal [R17:L80-L89].
+- CCWhistle recovery details: woke extubated, ICU day one groggy no pain; day after procedure moved to station and stood up; only Novalgin painkiller; day 2/3 shallow breathing/manual breathing and BP spike >160/90; day 4 catheter/drains out and big improvement; day 5 ready for home but stayed a week; week 2 slept a lot, walking and 20-25 min gentle bike; week 3 rehab 5x/week, HR still not below 87; overexertion caused setback; would choose PEARS again [R17:L128-L156].
+- Another user: PEARS in London with Dr Austin about a year earlier; resting HR higher first couple months and during walks; now CrossFit 5 days/week; later chest/throat pounding feeling despite normal BP/HR likely anxiety; breathing techniques help [R17:L159-L164].
+- PEARS vs David rationale: PEARS less invasive, no bypass, ~90 min surgery per user, avoids repeat surgery if David sutures fail, Dr Austin allegedly described pro rugby return to play after full healing [R17:L171-L177].
+- Another PEARS user: 2 years post, HR still higher than before (around 80 vs 50-60), medication changed; 6-month mark closer to "new normal"; walking/yoga helpful; pounding sensations can persist [R17:L180-L184].
+
+[R18] "PEARS from CT in the US"
+URL: https://www.reddit.com/r/marfans/comments/1qefgno/pears_from_ct_in_the_us/
+Relevant captured lines:
+- OP asks about PEARS based on US CT data and timing [R18:L80-L88].
+- US-based family: London Bridge provided timeframe and required measurements; scans a couple months before surgery; paid upfront and later got insurance reimbursement; spent about a month in London [R18:L109-L124].
+- US patient: first CT not gated and ineligible; second gated CT in early Dec 2025 for Feb 2026 surgery; printed Exstent CT protocol and handed it to imaging staff; DICOM format important [R18:L132-L137].
+- Canada user: first CT was incorrectly ordered, not cardiac gated and wrong viewing area; second time brought protocol and requested radiologist discussion [R18:L151-L160].
+
+[R19] "What to expect post surgery (aortic root repair)"
+URL: https://www.reddit.com/r/marfans/comments/1hobwco/what_to_expect_post_surgery_aortic_root_repair/
+Relevant captured lines:
+- OP asks about care needs after aortic root repair, recliner, button-down shirts, 24-hour care, showering, mobility, stamina, housework, PT, psychological effects, stairs/walking [R19:L80-L104].
+- General root replacement commenter: hospital one week, able to do more than expected, no pain meds at home, coughing/sneezing painful, sleeping position tough, propping pillow/recliner useful, near return to work by 8 weeks [R19:L126-L143].
+- PEARS user: surprised by lack of pain; coughing difficult; used YouTube breathing exercises; one week hospital; upstairs shower within days; delayed rehab to two weeks; first two weeks slept a lot; shuffled around due clot anxiety; cooked some meals in second week; by 2 months mostly normal but had low energy/tachycardia frustration; move but be patient [R19:L160-L173].
+- PEARS rationale: not in US; conservative mindset, avoided heart-lung machine; PEARS simpler/lower risk; replacement still possible later if needed [R19:L181-L188].
+- Practical recovery: home alone for one hour may be possible early, but pain/slow movement; getting out of bed worst; shirt difficult; dinner help after days, dishes with lifting arms may take weeks/months; psychological response varies [R19:L196-L200].
+- General post-op recovery: exhaustion/lethargy; meal delivery and small walking treadmill helped [R19:L202-L208].
+- General post-op care: shower chair/walker useful; help standing/stairs for about a week; leave alone 45 minutes after ~3 days at home; help getting around up to 3 weeks; lifting arms/dishes wait for sternal precautions 6-8 weeks; cooking after a week if energy allows; cardiac rehab 2-3x/week for ~18 weeks; depression/helplessness normal; serious complications if discharged too early with collapsed lung/sepsis/infections [R19:L239-L252].
+- General advice: 2 months off minimum; follow walking/lung training; some plan 3 months off [R19:L271-L305].
+- General post-op: walking and fatigue, normal-ish life after 3 months for one user [R19:L309-L312].
+
+[R20] "My genetic test came back negative..."
+URL: https://www.reddit.com/r/marfans/comments/1i3hhu1/my_genetic_test_came_back_negative_and_the_doctor/
+Relevant captured lines:
+- User with marfanoid root but no clear Marfan reports PEARS to prevent further dilation; surgeon sees such patients [R20:L127-L132].
+- Size/recovery: 5.2cm pre-op to 3.8cm after PEARS; recovery uncomfortable but not unbearable; walking day 2-3; back to Airbnb day 5; stayed London another week; examined and sent home to Texas; 3 months later back to CrossFit; 1 year 2 months post-op, back to normal [R20:L138-L142].
+
+[R21] "Question"
+URL: https://www.reddit.com/r/marfans/comments/1izplto/question/
+Relevant captured lines:
+- User at 4.4cm asks why wait until 5cm [R21:L81-L86].
+- PEARS user waited from 4.1 in 2014 to 4.8, had PEARS, 95% graft, measured 4.2 post-op, recommends London Bridge, peace of mind [R21:L107-L111].
+- Concern about arch/descending aneurysms after PEARS: same user says highest pressure/risk area is covered by graft; believes descending issues grow slowly and suggests expert surgeon consultation [R21:L116-L123].
+- Cardiology rationale for waiting with VSRR/David: valve may slowly degrade due to surgery, so start that clock late [R21:L136-L141].
+
+[R22] "Should I get tested if I dont have any complications?"
+URL: https://www.reddit.com/r/marfans/comments/1enoypd/should_i_get_tested_if_i_dont_have_any/
+Relevant captured lines:
+- Husband had 4.5cm root and chose London PEARS preventatively while still a candidate; traveled from US; US insurance reimbursed cost [R22:L108-L123].
+- Broader point: undetected aortic root dilation can exist without symptoms; monitoring matters [R22:L108-L145].
+
+[R23] "Can I address marfan syndrome to any cardiologist?"
+URL: https://www.reddit.com/r/marfans/comments/1640suo/can_i_address_marfan_syndrome_to_any_cardiologist/
+Relevant captured lines:
+- Family sees cardiology/echo and ophthalmology 1-2 times/year [R23:L134-L136].
+- Husband was on activity restrictions and blood pressure meds but after PEARS in spring no longer needs those meds/precautions, per spouse [R23:L144-L149].
+
+[R24] "How can I best support my boyfriend with Marfans?"
+URL: https://www.reddit.com/r/marfans/comments/1cktkkk/how_can_i_20f_best_support_my_boyfriend_20m_with/
+Relevant captured lines:
+- Spouse: husband had aneurysm and PEARS in London, now "doesn't have to worry about it anymore" (subjective reassurance; not literal cure) [R24:L121-L136].
+
+[R25] "When did you have aortic surgery?"
+URL: https://www.reddit.com/r/marfans/comments/1slv9qr/when_did_you_have_aortic_surgery/
+Relevant captured lines:
+- User 4 months post-PEARS, surgery at 4.6cm; says PEARS guideline between 4.0-5.0cm and 2022 ACC/AHA between 4.5-5.0cm; recommends planned surgery rather than emergency dissection [R25:L154-L160].
+- Same user says recovery good, normal routine at 4 months, no mention of personal complications; recommends Exstent patient experiences; sees PEARS as preferable to VSRR/TRR; waiting risks dissection or severe prolapse [R25:L169-L175].
+- Thread includes question about AFib after surgery but no captured answer in accessible lines [R25:L181-L185].
+
+============================================================
+2. CONSOLIDATED THEMES
+============================================================
+
+2.1 What Reddit users say PEARS is
+- A custom external mesh/sleeve/wrap placed around the aortic root/ascending aorta.
+- Described as preserving native aortic tissue and valve rather than cutting out/replacing aortic root structures.
+- Often described as "open chest" but not "open heart" in the sense that the heart itself/aorta may not be opened, and often no heart-lung bypass is required.
+- Users repeatedly contrast PEARS with:
+  - Bentall/total root replacement: mechanical valve + lifelong anticoagulation if mechanical valve used.
+  - VSRR/David: valve-sparing but technically demanding and still involves cutting/reimplanting tissue; users worry about reoperation/failure.
+- A caveat repeatedly raised: PEARS supports the root; it does not cure Marfan or eliminate risk elsewhere in the aorta.
+
+2.2 Reported PEARS candidacy/timing
+- Reddit cases commonly involved aortic root measurements around 4.5-4.8cm:
+  - 45mm [R03/R10/R22 examples].
+  - 4.6cm [R05, R25].
+  - 4.7/4.8cm [R05, R09, R11].
+  - 48mm [R04/R21].
+  - 5.2cm [R20].
+- Several users frame PEARS as preventative and something to do while still a candidate, but thresholds are not simple and depend on diagnosis, family history, dilation rate, valve function/regurgitation, body size, surgical center, and specialist view.
+- One commenter states PEARS guideline is 4.0-5.0cm and ACC/AHA 2022 guideline 4.5-5.0cm [R25]. This needs verification from clinical guidelines before use medically.
+- Tal Golesworthy/TaliesinJohn emphasizes there is no simple diameter threshold and that different CTDs have different dissection thresholds [R07].
+
+2.3 Common decision factors in favor of PEARS, as reported by Reddit users
+- Avoiding cardiopulmonary bypass / heart-lung machine.
+- Beating-heart surgery and zero cross-clamp time.
+- Preserving native aortic valve and aortic structures.
+- Avoiding lifelong warfarin/anticoagulation from mechanical valve replacement.
+- Avoiding or reducing risk of VSRR/David reoperation.
+- Perception that if PEARS fails or later data changes, traditional replacement/VSRR remains possible later.
+- Faster or easier recovery compared with more invasive root replacement, according to users.
+- Desire to return to a more active lifestyle.
+- Psychological relief / peace of mind after surgery.
+- Some users chose high-volume PEARS surgeons/centers for confidence, especially London Bridge/Dr Conal Austin.
+
+2.4 Decision concerns / dissenting views
+- PEARS is less available in the US/Canada and may require overseas travel.
+- Insurance reimbursement is inconsistent; some users report reimbursement, others report denial or need to pay upfront.
+- Less long-term data than traditional procedures, although users point to the first patient now >20 years and multiple 5-year anecdotal cases.
+- Newer/low-volume local teams worry patients; some users prefer experienced PEARS centers or supervising surgeons.
+- A US cardiologist reportedly argued PEARS may not stop underlying tissue damage/tearing, which users suggested should be researched further [R03].
+- PEARS may not protect against type B/descending aortic dissection; users debate whether post-PEARS data show reduced type B events [R13].
+- Some cardiologists/surgeons may be unfamiliar or dismissive, especially in the US where PEARS is not approved/available.
+
+2.5 Surgery centers/logistics mentioned
+- London Bridge Hospital / HCA London Bridge, Dr Conal Austin: most frequently mentioned for international patients.
+- Barts (UK): one user had PEARS there in 2023.
+- Belfast: one NHS user had PEARS in 2020.
+- CKTCH Brno (Czech Republic): reported lower cost and growing PEARS volume.
+- IKEM Prague: early PEARS adopter, considered by Canadian user.
+- Australia and New Zealand centers: Tal Golesworthy mentioned 3 in Australia and 2 in New Zealand in older thread.
+- Users suggest sending records/CT directly to a PEARS center for candidacy review.
+
+2.6 Cost reports
+Approximate amounts, anecdotal and likely date/country-dependent:
+- USD 50k all-in: London Bridge user at 8 weeks post-op [R02].
+- EUR 55k surgery estimate for London, plus London living costs [R03].
+- Under EUR 30k at CKTCH Brno, about half London, with lower living costs [R03].
+- USD 60k plus travel/lodging/food: commenter estimate for London Bridge [R09].
+- USD 65k: older US thread estimate [R12].
+- USD 70k all-in: London Bridge/Dr Austin user [R04].
+- Insurance: several US users/caregivers report paying upfront and later reimbursement; others report no coverage. No single rule emerges.
+
+2.7 Imaging/logistics for PEARS planning
+- CT data must follow Exstent/PEARS protocol.
+- Key requirements mentioned:
+  - Cardiac-gated CT (ECG leads attached).
+  - Correct scan/viewing area.
+  - DICOM format for image transfer.
+  - Timing: one user reports scans a couple months before surgery; another had early Dec 2025 CT for Feb 2026 surgery.
+  - Bring printed protocol and insist imaging staff/radiologist read it; one user had to repeat CT due incorrect protocol.
+- International workflow may involve Zoom consultation and email coordination before travel.
+
+2.8 Hospital stay and immediate post-op course
+Common pattern from detailed PEARS diaries:
+- ICU immediately after surgery, often extubated before waking in some reports.
+- Lines/tubes may include IVs, neck line, chest drains, urinary catheter, nasal oxygen, EKG/SP02 monitor.
+- Pain sometimes reported as lower than expected; discomfort and soreness more than severe pain in some PEARS accounts.
+- Day 1-2:
+  - Grogginess.
+  - Lines/tubes discomfort.
+  - Standing begins.
+  - Back ache from bedrest.
+  - Poor appetite/nausea.
+  - Shallow breathing or hard to take deep breaths.
+- Day 3:
+  - Walking laps with physio.
+  - Shower possible with help.
+  - Coughing/breathing exercises important.
+  - Partial lung collapse/atelectasis-like issue reported in one London case.
+- Day 4:
+  - Major improvement after catheter/drains removed in one case.
+  - Better lung function and eating.
+- Discharge:
+  - London diary: day 5.
+  - NHS teen: day 5.
+  - Czech user: one week.
+  - Some reports as short as 3 days.
+  - Some general cardiac surgery cases had longer stays due complications.
+
+2.9 Post-discharge recovery milestones
+Reported milestones vary widely:
+- Same day as hotel discharge: 1 km hotel treadmill in one London report.
+- Within days: walking several miles in one strong recovery report.
+- 2.5 weeks: one user working in office 80% of day and walking miles/day.
+- 1 month: another user felt about 80%, no major complications but sleep still difficult.
+- 2 months: one PEARS user felt mostly normal but still frustrated by low energy/tachycardia.
+- 2-2.5 months: NHS teen returned to school.
+- 3 months: back to CrossFit in one London case; another user suggests sternum/no lifting restrictions around 3 months.
+- 4 months: recent PEARS user back to normal routine.
+- 6 months: one user expected/was told this is around "new normal" or near-full recovery.
+- 12-14 months: multiple users report weights/basketball/CrossFit or normal life.
+
+2.10 Practical recovery aids repeatedly mentioned
+- Recliner or pillow ramp / elevated sleeping.
+- Button-down shirts; T-shirts difficult due arm lifting.
+- Pillow to brace chest when coughing/sneezing.
+- Shower chair/bench; sometimes help washing hair.
+- Walker/cane for some general aortic root surgery recoveries.
+- Meal delivery, simple groceries, and prepared meals.
+- Walking treadmill or easy walking route.
+- Phone charger in ICU/hygiene bag for international hospital stay.
+- Consider companion/caregiver, but one 5-year post-PEARS user reported traveling alone and doing fine.
+- Avoid lifting arms/objects until sternal precautions cleared.
+- Cardiac rehab / physiotherapy.
+
+2.11 Symptoms/side effects/complications reported after PEARS
+PEARS-specific or PEARS-adjacent reports:
+- Partial/collapsed lung after surgery; one user with prior collapsed lung had lung collapse again [R04].
+- Shallow breathing and difficulty taking deep breaths; coughing required to clear fluid [R04, R17].
+- Night sweats [R04, R15].
+- Low appetite, nausea [R04].
+- Back ache from bedrest [R04].
+- Soreness/fatigue requiring naps [R04, R15].
+- Sleep difficulty: cannot sleep flat, side-sleeping uncomfortable after sternotomy, need elevated sleeping [R03, R15].
+- Coughing painful for 2-3 weeks; sneezing feared [R03].
+- Elevated resting HR/tachycardia/pounding heart:
+  - One month post-op: HR ~98 resting, 115-120 standing, slow recovery after exercise [R17].
+  - HR higher for first couple months in another user, later CrossFit 5x/week [R17].
+  - Two years post, HR still higher than pre-op in one user [R17].
+- BP spike around day 3 in one user, resolved after BP meds [R17].
+- Possible fever and AFib after cardiac surgery mentioned as general post-op possibilities by a commenter [R15].
+- Anxiety/feeling "broken" and hyperawareness of heartbeat after surgery [R17].
+- No reported PEARS severe complications in many users: "no complications" at 5 years, age-15 NHS, recent cases.
+
+General aortic surgery complications discussed in threads (not necessarily PEARS):
+- Collapsed lung with hypoxia/sepsis after discharge too early.
+- Incision infection, UTI from catheter, blood infection from transfusion.
+- Depression/helplessness.
+- AFib requiring amiodarone in a non-PEARS/general surgery thread.
+These should not be attributed to PEARS unless independently confirmed.
+
+2.12 Activity/exercise after PEARS
+- Reports vary and should be individualized:
+  - Some users say no restrictions after PEARS or return to weights/basketball/CrossFit.
+  - Others remain cautious and follow Marfan Foundation-style low weight/high reps, no straining/bearing down.
+  - Some surgeons apparently defer exercise guidance to Marfan specialists/foundations.
+  - Heavy lifting remains debated because Marfan affects the whole aorta, not only the repaired root.
+- Common advice: avoid high blood pressure spikes, Valsalva, and heavy straining; get cardiologist/surgeon-specific clearance.
+
+2.13 Medication and surveillance after PEARS
+- Some users report stopping blood pressure/aortic-growth meds after PEARS.
+- Others remain on beta blocker or start/continue losartan/bisoprolol/metoprolol due HR/BP or specialist preference.
+- At least one commenter warns that even if meds are stopped, the rest of the aorta should still be monitored yearly [R12].
+- Surveillance after PEARS continues:
+  - Annual checkups mentioned in NHS case.
+  - Post-op CT/echo at Stanford in one case.
+  - Ongoing echos/MRI for Marfan generally.
+- PEARS is not a cure for Marfan; eyes, valves, joints, spine, and rest of aorta may still require monitoring.
+
+2.14 Future surgery / removability / reoperation
+- Users report mixed wording:
+  - London Bridge doctors allegedly said PEARS graft cannot be taken out and becomes part of body, but should not interfere with future heart surgery.
+  - Others say not designed to be removable because aorta incorporates it over time.
+  - Users believe David/VSRR or even additional procedures can still be performed after PEARS.
+  - A literature quote shared by a user suggests incorporated mesh may make reoperation safer by reinforcing tissue.
+- No accessible Reddit patient in this capture reported having PEARS removed or requiring VSRR after PEARS, but this is anecdotal and based on limited data.
+
+============================================================
+3. PATIENT / CAREGIVER CASE EXTRACTION
+============================================================
+
+CASE PEARS-LON-01: London Bridge, Dr Conal Austin, US/international, active adult
+Sources: R04, R05, R06, R15, R20/R21 possibly same or overlapping users
+Profile: adult, one report age 32, US-based international patient.
+Pre-op: aortic root 48mm / 4.7-4.8cm in one report.
+Post-op root: 42mm with 95% graft in one report; 4.1cm at 14 months in another; 4.2cm after 95% graft in another.
+Cost: USD 70k all-in in one report.
+Hospital course: ICU day 1, HDU after day 2, walking day 3, discharge day 5.
+Issues: partial/collapsed lung, shallow breathing, night sweats, low appetite/nausea, fatigue/soreness, elevated sleep, coughing pain.
+Recovery: 1 km treadmill on discharge day to hotel; walking miles within days; 2.5 weeks working ~80% in office; 3 months CrossFit in one case; 14 months weights/basketball.
+Sentiment: highly positive; repeatedly recommends London Bridge/Dr Austin.
+
+CASE PEARS-CZ-01: Canada to CKTCH Brno, Czech Republic
+Sources: R03, R18
+Profile: 38M Canadian.
+Pre-op: aorta 42mm -> 45mm; referred for VSRR/David.
+Decision: PEARS chosen for native valve preservation, no/less bypass, zero cross-clamp, conservative/future options.
+Cost: under EUR 30k at CKTCH; compared with London around EUR 55k plus living costs.
+Pre-op logistics: first contact to surgery about 4 months; CT protocol errors required repeat scan.
+Hospital course: checked in 2 days pre-op; completed without bypass despite severe pectus; extubated before ICU wake; neck IV, five chest drains, catheter, nasal oxygen; stepdown with language/privacy challenges.
+Recovery: no complications; ~80% at around one month; sleep semi-reclined due sternotomy; expected full recovery by 6 months; coughing hard 2-3 weeks.
+Notes: strong logistical details for medical tourism and CT imaging.
+
+CASE PEARS-NHS-TEEN-01: UK NHS, age 15
+Source: R10
+Profile: had PEARS on NHS in 2022 at age 15.
+Hospital: 5 days.
+Recovery: returned to school after 2-2.5 months.
+Outcome: no complications in procedure/life after surgery; annual checkups stable; chest pain largely diminished.
+Caveat: recovery "slightly longer because of Marfans."
+
+CASE PEARS-NHS-ADULT-01: UK NHS / London
+Source: R10
+Profile: PEARS in Jan 2023.
+Recovery: physically recovered quickly; nurses excellent.
+Outcome: measurements fine, no more surgeries per user.
+
+CASE PEARS-BELFAST-01
+Source: R10
+Profile: PEARS in Belfast, 2020.
+Recovery/outcome: "piece of cake, easy recovery" (brief anecdote).
+
+CASE PEARS-OLD-01: Patient no. 208
+Source: R12
+Profile: PEARS in April, patient number 208.
+Outcome: surgery smooth; off all meds; done under UK NHS.
+Caveat: another commenter warns yearly scanning/rest-of-aorta protection still needed.
+
+CASE PEARS-HUSBAND-01: US spouse/caregiver report, London
+Sources: R11, R18, R22, R23, R24
+Profile: husband diagnosed in 30s; moderate dilation / root 4.5cm; US-based; traveled to London for PEARS.
+Timing: preventative while still candidate.
+Finance/logistics: paid upfront, later submitted to insurance and got reimbursement; split cost across credit cards; spent about a month in London; CT scans couple months before surgery.
+Reported benefits: no longer needs BP meds/activity restrictions/precautions per spouse; no bypass, no blood thinners, no exercise restrictions listed as reasons chosen.
+Sentiment: positive; spouse says it eased worry, but note this is subjective and not a literal cure.
+
+CASE PEARS-CCW-01: early local-country PEARS patient, heart-rate issue
+Sources: R09, R11, R17, R19
+Profile: root 4.7/4.8; was third PEARS patient in country; supervising surgeon from abroad.
+Hospital course: woke extubated, ICU day 1, moved to ward and stood day after, minimal pain meds, shallow breathing day 2/3, BP spike, drains/catheter out day 4, left after one week.
+Post-op issue: resting HR around 98 one month post-op, high HR standing/exercising, anxiety; cardiologist considered it adjustment and did not prescribe meds in one account.
+Recovery: week 2 lots of sleep plus gentle walks/bike; week 3 rehab 5x/week; by 2 months often normal but low energy/tachy frustration; 8 months light weights/high reps and exercise bike.
+Sentiment: would choose PEARS again.
+
+CASE PEARS-HR-01: London PEARS with persistent higher HR
+Source: R17
+Profile: PEARS in London with Dr Austin about one year prior.
+Post-op issue: resting HR higher first couple months; higher HR while walking.
+Later: CrossFit 5 days/week, generally great; later pounding/high-chest sensation despite normal BP/HR, likely anxiety per therapist; breathing techniques helped.
+Decision: recommends PEARS over David if candidate; active lifestyle goal.
+
+CASE PEARS-HR-02: 2-year post PEARS, higher "new normal"
+Source: R17
+Profile: 2 years post PEARS.
+Post-op issue: HR still higher than before, around 80 vs prior 50-60; medication changed from atenolol to metoprolol.
+Advice: wait until 6 months for closer "new normal"; exercise helps but easy/calming forms like walking/yoga.
+
+CASE PEARS-MARFANOID-01: no Marfan diagnosis / marfanoid aortic root
+Source: R20
+Profile: user and father have root dilation without clear Marfan diagnosis.
+Pre-op/post-op: 5.2cm -> 3.8cm after PEARS.
+Recovery: uncomfortable but not unbearable; walking day 2-3; Airbnb day 5; London another week; home to Texas; 3 months back to CrossFit; 1 year 2 months normal.
+
+CASE PEARS-RECENT-01: 4 months post, PEARS at 4.6cm
+Source: R25
+Profile: recent user, 4 months post PEARS; surgery at 4.6cm.
+Outcome: recovery good; back to normal routine at 4 months.
+Decision: recommends planned PEARS rather than risk emergency dissection/severe prolapse; sees PEARS as preferable to VSRR/TRR.
+Potential missing data: asked about arrhythmia/AFib, but accessible lines do not contain answer.
+
+CASE PEARS-ZERO-01: 23-year-old, PEARS 2 months ago
+Source: R22/R02 search result lines in R22? Main source R22 lines L145-L148
+Profile: 23, diagnosed age 9/10, spontaneous mutation.
+Pre-op/post-op: aorta 45mm; two months after PEARS down to 39mm.
+Medication: continued bisoprolol and planned losartan.
+Monitoring: yearly echos and MRI every 3 years mentioned.
+
+CASE PEARS-FIVE-YEAR-01: 5-year PEARS, no complications
+Sources: R01, R06
+Profile: at least two comments report ~5 years after PEARS.
+Outcome: no complications; one says heart has been healthiest part of Marfan after PEARS; another traveled from US alone and had no issues, hospital discharge day 5.
+Sentiment: would not regret decision.
+
+============================================================
+4. COMPLICATION / ISSUE CATALOG
+============================================================
+
+PEARS-specific observed/reported:
+- Partial/collapsed lung after surgery; recurrent lung collapse in one user with prior history.
+- Shallow breathing / manual breathing feeling in early post-op days.
+- Coughing pain for 2-3 weeks.
+- Night sweats.
+- Nausea/low appetite.
+- Back ache from lying in bed.
+- Fatigue and need for naps.
+- Difficulty sleeping flat or on side due sternotomy discomfort.
+- Elevated heart rate/tachycardia for weeks/months; pounding heartbeat sensation.
+- Temporary BP spike.
+- Anxiety / fear of never returning to normal.
+
+General cardiac/aortic surgery issues that may or may not apply to PEARS:
+- AFib after cardiac surgery.
+- Fever.
+- Depression/helplessness.
+- Infection/sepsis/catheter UTI/blood infection from transfusion.
+- Need for walker/shower chair/caregiver.
+- Longer hospital stay if complications.
+- Slow physical recovery and deconditioning.
+
+Potential long-term/structural uncertainties:
+- Whether PEARS fully prevents tissue damage/tearing vs just supports root.
+- Residual risk in arch/descending aorta/type B dissection.
+- Whether/when to stop BP meds after PEARS.
+- Exercise limits for heavy lifting/bodybuilding/contact sports.
+- How easy future VSRR/David/TRR actually is after mesh incorporation.
+- True long-term failure/reoperation rates compared with David/VSRR in Marfan patients.
+
+============================================================
+5. LLM-READY ANALYSIS TAGS
+============================================================
+
+Suggested tags for later coding:
+- procedure_definition
+- candidacy_threshold
+- aortic_size_preop
+- aortic_size_postop
+- cost_london
+- cost_czech
+- insurance_reimbursement
+- medical_tourism
+- CT_protocol
+- DICOM
+- cardiac_gated_CT
+- surgical_center_london_bridge
+- surgical_center_ckcth_brno
+- surgical_center_ikem_prague
+- surgical_center_nhs
+- surgeon_conal_austin
+- no_bypass
+- valve_preservation
+- no_anticoagulation
+- future_surgery_possible
+- not_removable
+- incorporated_mesh
+- hospital_day_timeline
+- ICU
+- extubated_before_wake
+- chest_drains
+- catheter
+- shallow_breathing
+- lung_collapse
+- night_sweats
+- nausea
+- tachycardia
+- high_resting_HR
+- blood_pressure_spike
+- sleep_recliner
+- coughing_pain
+- cardiac_rehab
+- walking_milestone
+- return_to_work
+- return_to_school
+- return_to_sport
+- weight_lifting
+- exercise_restrictions
+- no_complications_reported
+- anxiety
+- depression
+- data_limitations
+
+============================================================
+6. KEY TAKEAWAYS FOR A FUTURE LLM
+============================================================
+
+- Reddit sentiment in accessible /r/marfans PEARS threads is strongly positive, especially among patients/caregivers who actually had PEARS.
+- The strongest repeated benefits are: avoiding bypass, preserving native valve/aorta, avoiding anticoagulation, perceived lower invasiveness, and preserving future surgical options.
+- The most detailed recovery diaries show rapid mobility but still major sternotomy recovery: ICU/stepdown, tubes, shallow breathing, painful cough, fatigue, sleep problems, and a weeks-to-months recovery arc.
+- The most prominent PEARS-specific complication signals are lung-related issues and post-op tachycardia/pounding heart; many users report no major complications.
+- International logistics are a major theme: London Bridge/Dr Conal Austin dominate US-patient discussions, but Czech centers are discussed as lower-cost options.
+- Correct CT protocol is a recurring logistical failure mode; cardiac-gated DICOM imaging matters.
+- Exercise after PEARS is inconsistent across reports: some users resume CrossFit/weights/basketball, while others remain cautious due Marfan-wide aortic risk. Treat "no restrictions" as anecdotal and clinician-specific.
+- Multiple users say PEARS does not preclude future surgery; however, mesh removability is disputed/nuanced. Better phrasing: not designed to be removable, incorporated into tissue, but may not prevent later aortic surgery.
+- PEARS is not a cure for Marfan syndrome and does not remove need for long-term follow-up.
