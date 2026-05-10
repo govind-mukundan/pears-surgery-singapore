@@ -253,3 +253,14 @@
 - My parents were there and I felt fine, I drifted in and out of sleep and don’t remember being in pain.
 - Unfortunately, I developed a slight temperature, so I had to be kept in for a few more days and given intravenous antibiotics.
 - My temperature finally came back to normal, and they discovered I had a slight reaction to the blood transfusion, which is not uncommon.
+
+### CCWhistle
+- PEARS Patient Story: CCWhistle URL: Reddit Brief Description: Recovered well after PEARS, sternum popping first two months, sneezing painful, learned breathing exercises from YouTube.
+- I didn't have much pain after PEARS - the first 48 hours was more weakness and discomfort and difficulty breathing (which I blame on the drainage tubes).
+- You will absolutely want to learn how to stop a sneeze because that shit is indeed painful, pillow or not.
+
+### Reddit Unnamed User
+- I was surprised by the lack of pain.
+- Sometimes I felt like I was making great strides within a single day, but I also often got frustrated with feeling low energy, with my heart in tachycardia, etc, and worried I would never be my old self again.
+- The only pain killers I got was Novalgin (not available in the US) which is basically a step up from ibuprofen.
+- I believe it was also the third day that the anesthesia really left my system and my blood pressure started to spike over 160/90 so I panicked about that as well.

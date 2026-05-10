@@ -115,3 +115,8 @@
 
 ### Emma Barker
 - This was a little difficult, but it was good to get up and stretch my muscles (and beat Dad’s record!).
+
+### CCWhistle
+- Aside from cooking I didn't really need any help at home.
+- Because of the sternotomy you're not supposed to raise your arms over your head or lift anything over 2 pounds for several months so that's something you might need help with.
+- You will absolutely want to learn how to stop a sneeze because that shit is indeed painful, pillow or not.

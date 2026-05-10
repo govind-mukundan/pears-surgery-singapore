@@ -271,3 +271,11 @@
 - (Hmmm, brandy?) After lunch and much talk I knew I was ready, they said it would be around three weeks from then, so I went home, and waited.
 - The day came fast and, together with my mum and dad, we made our way up to The Royal Brompton hospital.
 - After getting home, every day I felt better and better, and was glad that I chose to have this operation, I could finally relax and feel safe.
+
+### CCWhistle
+- I could have gone back to work after two months, but I got laid off so that wasn't an issue.
+
+### Reddit Unnamed User
+- I was in the hospital for a week.
+- I woke up with the breathing tube already gone and spent a day in the ICU pretty groggy, no pain.
+- Day five I felt like I could have gone home, but I was told ahead of time it'd be at least 7 days.
