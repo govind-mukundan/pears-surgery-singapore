@@ -1,6 +1,6 @@
 # Care Quote Template + Current Cost Calculations
 
-Use this sheet to compare provider quotes consistently. Figures below use only currently available data from `planning/response-asana.txt` and `planning/response-active-global.txt`.
+Use this sheet to compare provider quotes consistently. Figures below use currently available data from `planning/response-asana.txt`, `planning/response-active-global.txt`, Homage pricing pages, and Jaga-Me pricing guide.
 
 ## 1) Quote comparison template (fill this once quotes arrive)
 
@@ -101,3 +101,45 @@ Important notes:
 
 - If your needed support is 4-10 weeks, short-term shift care usually stays cleaner operationally than initiating a live-in contract flow.
 - If you expect >3 months of heavy daily support, live-in starts becoming more cost-competitive despite higher setup overhead.
+
+## 6) Week 1-4 decision table (rough, apples-to-apples)
+
+Assumed support pattern for comparison:
+
+- Weeks 1-2: 8h daytime + 8h nighttime daily
+- Weeks 3-4: 8h daytime daily
+- Total service hours in first 4 weeks: 336 hours
+
+Calendar assumption for providers with weekday/weekend split:
+
+- Each 14-day block is estimated as 10 weekdays + 4 weekend/PH days.
+
+| Provider | Pricing basis used | Week 1-4 estimate | Notes |
+|---|---|---:|---|
+| Homage (ADL caregiver, pay-as-you-go) | From `homage.sg/pricing`: 3-12h rates ($27.5/hr weekday, $28.5/hr weeknight/weekend) | **$9,416.00** | Includes weeknight/weekend rates under mixed calendar assumption; excludes short-hour/urgent/transport add-ons |
+| Jaga-Me (Home Personal Caregiving) | From `jaga-me.com/pricing-guide`: >=8h day/night weekday/weekend matrix | **$12,609.12** | GST-inclusive rates from table; excludes transport and any special location surcharge |
+| Aseana (adhoc) | `planning/response-asana.txt`: $270 + GST per <=8h shift | **$12,360.60** | Assumes 42 x 8h shifts; no explicit night premium listed; excludes Sunday/PH surcharges and cancellation/admin contingencies |
+| Active Global (private nursing) | `planning/response-active-global.txt`: $29/hr day, +$5.50/hr night | **$10,360.00** | Before GST; excludes Sunday/PH surcharge loading and depends on nurse availability |
+| Aseana live-in (month 1) | Agency + third-party + salary from `planning/response-asana.txt` | **$5,990.12** | Not equivalent to shift-based model; includes setup overhead and contract/process implications |
+
+## 7) Week 5-8 taper table + 8-week totals
+
+Assumed taper pattern for comparison:
+
+- Weeks 5-8: 3h/day, 5 days/week, 4 weeks total = 60 hours
+- Taper assumed as weekday daytime support
+
+| Provider | Week 5-8 taper estimate | 8-week total (Week 1-4 + Week 5-8) | Notes |
+|---|---:|---:|---|
+| Homage (ADL caregiver, pay-as-you-go) | **$1,650.00** | **$11,066.00** | Uses weekday 3-12h rate at $27.5/hr |
+| Homage (if prepaid package effectively used) | **$1,440.00** | **$10,856.00** | Uses $24/hr equivalent (Care Relief 80-Hour reference) for taper planning only |
+| Jaga-Me (Home Personal Caregiving) | **$2,092.80** | **$14,701.92** | Uses weekday day >=8h rate as rough proxy for taper hours |
+| Aseana (adhoc) | **$5,886.00** | **$18,246.60** | Uses 20 x 8h weekday shifts; this is operationally inefficient for taper-stage support |
+| Active Global (private nursing) | **$1,740.00** | **$12,100.00** | Before GST; nursing model, not housekeeping model |
+| Aseana live-in (cumulative to 8 weeks) | **+$800.00** month 2 salary increment | **$6,790.12** | Cumulative estimate based on month 1 total + one more month salary only; real month 2 may include additional items |
+
+### Interpretation for decision-making
+
+- For short-term recovery, shift models are more flexible but can be costly if overnight is maintained too long.
+- For tapered weeks (5-8), hourly/daytime services are much more cost-efficient than fixed-shift adhoc blocks.
+- Live-in appears cheapest on headline dollars in current data, but has non-price trade-offs: onboarding lead time, setup/admin, and lower flexibility for short episodic needs.
